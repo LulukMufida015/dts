@@ -3,12 +3,12 @@
   [
     {
       "id":1,
-      "username":"luluk",
+      "email":"luluk",
       "password":"mufida"
     },
     {
       "id":2,
-      "username":"ainur",
+      "email":"ainur",
       "password":"rosidah"
     }   
   ],
@@ -62,9 +62,5 @@
       "phone":"102018305",
       "url":"https://youtu.be/1IcUaE5RPYY"
     }
-    ]
+  ]
 }
-    
-  
-      
-    
