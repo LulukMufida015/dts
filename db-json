@@ -1,0 +1,70 @@
+{
+  "user":
+  [
+    {
+      "id":1,
+      "username":"luluk"
+      "password":"mufida"
+    },
+    {
+      "id":2,
+      "username":"ainur"
+      "password":"rosidah"
+    }   
+  ],
+  "tutorial":
+  [
+    {
+      "id":3,
+      "nama":"vector"
+      "phone":"102018308"
+      "url":"https://youtu.be/dP9yvozwJJw"
+    },
+    {
+      "id":4,
+      "nama":"text effect"
+      "phone":"102018309"
+      "url":"https://youtu.be/kWsGD1w2G3Y"
+    },
+    {
+      "id":5,
+      "nama":"sertifikat"
+      "phone":"102018307"
+      "url":"https://youtu.be/994OElYrk1c"
+    },
+    {
+      "id":6,
+      "phone":"102018301"
+      "nama":"text neon"
+      "url":"https://youtu.be/tdy1XMK59fo"
+    }.
+    {
+      "id":7,
+      "nama":"poster"
+      "phone":"102018302"
+      "url":"https://youtu.be/1flzdYG545g"
+    },
+    {
+      "id":8,
+      "nama":"logo"
+      "phone":"102018303"
+      "url":"https://youtu.be/4fi-8w_35K4"
+    }.
+    {
+      "id":9,
+      "nama":"desain label"
+      "phone":"102018304"
+      "url":"https://youtu.be/jVoyRDN9Z0w"
+    }.
+    {
+      "id":10,
+      "nama":"kartu nama"
+      "phone":"102018305"
+      "url":"https://youtu.be/1IcUaE5RPYY"
+    }.
+    {
+}
+    
+  
+      
+    
